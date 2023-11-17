@@ -1,7 +1,7 @@
  # <a href="https://www.linkedin.com/in/gupta-paras/">Paras Gupta</a> :wink:
  
  <a href="https://x.com/techyparas">
-  <img align="left" alt="Paras's Twitter" width="22px" src="https://icons8.com/icon/13963/twitter" />
+  <img align="left" alt="Paras's Twitter" width="26px" src="https://raw.githubusercontent.com/CodexParas/CodexParas/d6ef54ba054a81a600d6e97a824f3a353c95ccec/images/icons8-twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/gupta-paras">
   <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
