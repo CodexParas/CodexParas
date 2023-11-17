@@ -40,7 +40,7 @@ Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Scie
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/CodexParas/CodexParas/4b057982c1d161646b1243c93d5fe3e092134bc9/images/icons8-django.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -51,25 +51,25 @@ Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Scie
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<a href="https://github.com/Parassng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parassng&theme=radical&hide=glsl,python" />
+<a href="https://github.com/CodexParas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexParas&theme=radical&hide=glsl,python" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Parassng&&show_icons=true&theme=radical&line_height=27&v=5" alt="Paras's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=CodexParas&&show_icons=true&theme=radical&line_height=27&v=5" alt="Paras's GitHub Stats" />
 
 
-<a href="https://github.com/Parassng/Covid-19-Data-Analysis">
+<a href="https://github.com/CodexParas/Covid-19-Data-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Parassng&repo=Covid-19-Data-Analysis&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodexParas&repo=Covid-19-Data-Analysis&theme=radical" />
 </a>    
 
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@Parassng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Parassng)](https://twitter.com/Parassng) [![Linkedin Badge](https://img.shields.io/badge/-Parassng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Parassng/)](https://www.linkedin.com/in/Parassng/) [![Gmail Badge](https://img.shields.io/badge/-Parascena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Parascena5@gmail.com)](mailto:Parascena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@Parassng-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/Parassng/)](https://www.instagram.com/Parassng/)
+[![Twitter Badge](https://img.shields.io/badge/-@CodexParas-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CodexParas)](https://twitter.com/CodexParas) [![Linkedin Badge](https://img.shields.io/badge/-CodexParas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/CodexParas/)](https://www.linkedin.com/in/CodexParas/) [![Gmail Badge](https://img.shields.io/badge/-Parascena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Parascena5@gmail.com)](mailto:Parascena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@CodexParas-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/CodexParas/)](https://www.instagram.com/CodexParas/)
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Parassng/count.svg" />
+  <img src="https://profile-counter.glitch.me/CodexParas/count.svg" />
 </p>
 
 
