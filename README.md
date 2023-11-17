@@ -59,13 +59,12 @@ Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Scie
 
 
 <a href="https://github.com/CodexParas/django-automated-news">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodexParas&repo=django-automated-news&theme=radical" />
 </a>    
 
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@CodexParas-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CodexParas)](https://twitter.com/CodexParas) [![Linkedin Badge](https://img.shields.io/badge/-CodexParas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/CodexParas/)](https://www.linkedin.com/in/CodexParas/) [![Gmail Badge](https://img.shields.io/badge/-Parascena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Parascena5@gmail.com)](mailto:Parascena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@CodexParas-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/CodexParas/)](https://www.instagram.com/CodexParas/)
+[![Twitter Badge](https://img.shields.io/badge/-@CodexParas-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/techyparas)](https://twitter.com/techyparas) [![Linkedin Badge](https://img.shields.io/badge/-CodexParas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gupta-paras/)](https://www.linkedin.com/in/gupta-paras/) [![Gmail Badge](https://img.shields.io/badge/-parasgupta8sep@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parasgupta8sep@gmail.com)](mailto:parasgupta8sep@gmail.com) [![Hacerrank Badge](https://img.shields.io/badge/-@CodexParas-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/CodexParas/)](https://www.instagram.com/CodexParas/)
 
 <p align="center"> 
   Visitor count<br>
