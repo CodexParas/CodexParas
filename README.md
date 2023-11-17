@@ -52,7 +52,7 @@ Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Scie
 
 
 <a href="https://github.com/CodexParas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexParas&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexParas&theme=radical" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=CodexParas&&show_icons=true&theme=radical&line_height=27&v=5" alt="Paras's GitHub Stats" />
