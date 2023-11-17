@@ -19,7 +19,9 @@
 Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
 
 ## About :sunglasses:
-BCA 3rd year Computer Science student. Currently polishing my skills as a Data Scientist to contribute in ongoing AI/ML trend. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Backend Development and Data Analysis.
+:wave: Hey there! I'm a BCA 3rd-year Computer Science student at Chandigarh University, passionately honing my skills as a Data Scientist. I'm driven by the desire to contribute to the thriving AI/ML landscape. My heart lies in Data Science and Machine Learning, and I'm an avid enthusiast for open source initiatives.
+
+:computer: While specializing in Data Science, I also bring experience in Backend Development and Data Analysis to the table. I'm committed to continuous learning and growth, exploring new possibilities in the ever-evolving tech realm.
 
 ## Communities :dancers:
 - Contributed at HostWeez ( A Web Hosting Company.)
@@ -42,9 +44,6 @@ BCA 3rd year Computer Science student. Currently polishing my skills as a Data S
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
