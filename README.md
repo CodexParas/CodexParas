@@ -9,7 +9,7 @@
 <a href="https://github.com/CodexParas">
   <img align="left" alt="Paras's Github" width="26px" src="https://raw.githubusercontent.com/CodexParas/CodexParas/3264cd5a8f21f41b788e644b6638ed15ebf559a5/images/icons8-github.svg" />
 </a>
-<a href="https://www.facebook.com/Paras1406">
+<a href="https://www.facebook.com/techyparas">
   <img align="left" alt="Paras's Facebook" width="26px" src="https://raw.githubusercontent.com/CodexParas/CodexParas/3264cd5a8f21f41b788e644b6638ed15ebf559a5/images/icons8-facebook.svg" />
 </a>
 
@@ -64,7 +64,7 @@ Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Scie
 
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@CodexParas-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/techyparas)](https://twitter.com/techyparas) [![Linkedin Badge](https://img.shields.io/badge/-CodexParas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gupta-paras/)](https://www.linkedin.com/in/gupta-paras/) [![Gmail Badge](https://img.shields.io/badge/-parasgupta8sep@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parasgupta8sep@gmail.com)](mailto:parasgupta8sep@gmail.com) [![Hacerrank Badge](https://img.shields.io/badge/-@CodexParas-32C765?style=flat-square&labelColor=088931&logo=hackerrank&logoColor=white&link=https://www.instagram.com/CodexParas/)](https://www.instagram.com/CodexParas/)
+[![Twitter Badge](https://img.shields.io/badge/-@CodexParas-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/techyparas)](https://twitter.com/techyparas) [![Linkedin Badge](https://img.shields.io/badge/-CodexParas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gupta-paras/)](https://www.linkedin.com/in/gupta-paras/) [![Gmail Badge](https://img.shields.io/badge/-parasgupta8sep@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parasgupta8sep@gmail.com)](mailto:parasgupta8sep@gmail.com) [![Hacerrank Badge](https://img.shields.io/badge/-@CodexParas-32C765?style=flat-square&labelColor=088931&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/profile/codewithparas)](https://www.hackerrank.com/profile/codewithparas)
 
 <div align="center">
 
