@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
+Contributed at HostWeez | Contributed at RVPG Media | Data Science | Machine Learning | Deep Learning | Backend Development | Django | Python | Competitive Programming
 
 ## About :sunglasses:
 :wave: Hey there! I'm a BCA 3rd-year Computer Science student at Chandigarh University, passionately honing my skills as a Data Scientist. I'm driven by the desire to contribute to the thriving AI/ML landscape. My heart lies in Data Science and Machine Learning, and I'm an avid enthusiast for open source initiatives.
