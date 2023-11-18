@@ -60,7 +60,10 @@ Contributed at HostWeez | Contributed at RVPG Media | Data Science | Machine Lea
 
 <a href="https://github.com/CodexParas/django-automated-news">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodexParas&repo=django-automated-news&theme=radical" />
-</a>    
+</a> 
+<a href="https://github.com/CodexParas/library-management-system-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodexParas&repo=library-management-system-api&theme=radical" />
+</a> 
 
 
 ##  Contact Me :speech_balloon:
