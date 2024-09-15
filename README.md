@@ -50,15 +50,13 @@ Contributed at HostWeez | Contributed at RVPG Media | Data Science | Machine Lea
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<div align="center">
 <a href="https://github.com/CodexParas">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexParas&theme=radical" alt="Paras's Top Langs" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=CodexParas&&show_icons=true&theme=radical&line_height=27&v=5" alt="Paras's GitHub Stats" />
-</div>
 
-<div>
+<div align="center">
  <a href="https://github.com/CodexParas/django-automated-news">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodexParas&repo=django-automated-news&theme=radical" />
 </a> 
@@ -66,7 +64,7 @@ Contributed at HostWeez | Contributed at RVPG Media | Data Science | Machine Lea
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodexParas&repo=library-management-system-api&theme=radical" />
 </a> 
 </div>
-<div>
+<div align="center">
  <a href="[https://github.com/CodexParas/library-management-system-api](https://github.com/CodexParas/todo-app-django)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodexParas&repo=todo-app-django&theme=radical" />
 </a> 
