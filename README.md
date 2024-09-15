@@ -21,7 +21,7 @@ Contributed at HostWeez | Contributed at RVPG Media | Backend Development | Djan
 ## About :sunglasses:
 :wave: Hey there! I'm Paras Gupta, an Associate Software Developer at Decimal Technologies, where I specialize in Backend Development using Spring Boot, Java, and microservices. I'm a BCA graduate from Chandigarh University and am deeply engaged in developing efficient and scalable backend solutions.
 
-:computer: My role involves designing and deploying microservices, optimizing API performance, and leveraging technologies like Redis and Firebase. With a strong background in backend development and a passion for solving complex technical challenges, I am dedicated to continuous learning and exploring new advancements in the tech world.
+:computer: My role involves designing and deploying microservices, optimizing API performance, and leveraging technologies like Redis and PostgreSQL. With a strong background in backend development and a passion for solving complex technical challenges, I am dedicated to continuous learning and exploring new advancements in the tech world.
 
 ## Communities :dancers:
 - Contributed at HostWeez (A Web Hosting Company)
@@ -34,7 +34,11 @@ Contributed at HostWeez | Contributed at RVPG Media | Backend Development | Djan
 - HTML, CSS, JS
 - Competitive Programming
 - Redis
-- Firebase
+- PostgreSQL (used in current role)
+- React.js
+- Next.js
+- MongoDB
+- Node.js
 
 **Languages and Tools:**  
 
@@ -43,7 +47,11 @@ Contributed at HostWeez | Contributed at RVPG Media | Backend Development | Djan
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
