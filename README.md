@@ -56,7 +56,7 @@ Contributed at HostWeez | Contributed at RVPG Media | Data Science | Machine Lea
 
 <img src="https://github-readme-stats.vercel.app/api?username=CodexParas&&show_icons=true&theme=radical&line_height=27&v=5" alt="Paras's GitHub Stats" />
 
-<div align="center">
+<div>
  <a href="https://github.com/CodexParas/django-automated-news">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodexParas&repo=django-automated-news&theme=radical" />
 </a> 
@@ -64,7 +64,7 @@ Contributed at HostWeez | Contributed at RVPG Media | Data Science | Machine Lea
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodexParas&repo=library-management-system-api&theme=radical" />
 </a> 
 </div>
-<div align="center">
+<div>
  <a href="[https://github.com/CodexParas/library-management-system-api](https://github.com/CodexParas/todo-app-django)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodexParas&repo=todo-app-django&theme=radical" />
 </a> 
