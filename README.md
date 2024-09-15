@@ -19,9 +19,9 @@
 Contributed at HostWeez | Contributed at RVPG Media | Data Science | Machine Learning | Deep Learning | Backend Development | Django | Python | Competitive Programming
 
 ## About :sunglasses:
-:wave: Hey there! I'm a BCA 3rd-year Computer Science student at Chandigarh University, passionately honing my skills as a Data Scientist. I'm driven by the desire to contribute to the thriving AI/ML landscape. My heart lies in Data Science and Machine Learning, and I'm an avid enthusiast for open source initiatives.
+:wave: Hey there! I'm Paras Gupta, an Associate Software Developer at Decimal Technologies, where I focus on Backend Development using Spring Boot, Java, and microservices. I'm a BCA graduate from Chandigarh University and have a passion for Data Science and Machine Learning. My journey is driven by a deep interest in AI/ML and a commitment to continuous learning and growth.
 
-:computer: While specializing in Data Science, I also bring experience in Backend Development and Data Analysis to the table. I'm committed to continuous learning and growth, exploring new possibilities in the ever-evolving tech realm.
+:computer: My role involves developing and deploying microservices, optimizing API performance, and leveraging technologies like Redis and Firebase. I bring experience in backend development, data analysis, and competitive programming to the table. I'm also an avid enthusiast for open-source initiatives and always exploring new possibilities in the ever-evolving tech realm.
 
 ## Communities :dancers:
 - Contributed at HostWeez ( A Web Hosting Company.)
