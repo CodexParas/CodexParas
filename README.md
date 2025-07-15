@@ -16,29 +16,25 @@
 <br/>
 <br/>
 
-Contributed at HostWeez | Contributed at RVPG Media | Backend Development | Django | Python | Competitive Programming
+## Bio :wave:
+Hi, I'm Paras Gupta - a passionate software developer and AI enthusiast. I'm always looking to leverage technology to drive innovation and solve complex problems.
 
 ## About :sunglasses:
-:wave: Hey there! I'm Paras Gupta, an Associate Software Developer at Decimal Technologies, where I specialize in Backend Development using Spring Boot, Java, and microservices. I'm a BCA graduate from Chandigarh University and am deeply engaged in developing efficient and scalable backend solutions.
-
-:computer: My role involves designing and deploying microservices, optimizing API performance, and leveraging technologies like Redis and PostgreSQL. With a strong background in backend development and a passion for solving complex technical challenges, I am dedicated to continuous learning and exploring new advancements in the tech world.
+As an Associate Software Developer at Decimal Technologies, my expertise lies in designing and deploying scalable backend solutions using cutting-edge technologies like Spring Boot (Java) and Django (Python). I've also been diving deep into AI/ML and Deep Learning, exploring its applications in computer vision, natural language processing, and predictive modeling.
 
 ## Communities :dancers:
 - Contributed at HostWeez (A Web Hosting Company)
 - Contributed at RVPG Media (A News Publishing Organization)
 
 ## Technologies :fire:
-- Web application development using **Django (Python)**
-- Backend development with **Spring Boot (Java)**
-- Python
-- HTML, CSS, JS
-- Competitive Programming
-- Redis
-- PostgreSQL (used in current role)
-- React.js
-- Next.js
-- MongoDB
-- Node.js
+- **Backend Development**: Expertise in Spring Boot (Java) for microservices architecture, with a strong foundation in backend development principles.
+- **AI/ML and Deep Learning**:
+  - Proficient in PyTorch and TensorFlow for building and training neural networks.
+  - Experience with Keras, Scikit-Learn, and OpenCV for computer vision tasks.
+  - Strong understanding of NLP techniques using NLTK, spaCy, and Gensim.
+  - Familiarity with Docker, Kubernetes, and Git for efficient deployment and management of AI/ML models.
+- **Databases**: Strong knowledge of Redis, PostgreSQL, MongoDB, and AWS services (EC2, S3).
+- **Cloud Computing**: Experience with deploying applications on cloud platforms like AWS.
 
 **Languages and Tools:**  
 
