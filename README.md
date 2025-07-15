@@ -37,7 +37,7 @@ As an Associate Software Developer at Decimal Technologies, my expertise lies in
 - **Cloud Computing**: Experience with deploying applications on cloud platforms like AWS.
 
 **Languages and Tools:**  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,pytorch,java,kafka,redis,mysql,postgresql,elasticsearch,aws,docker,jenkins&perline=3)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,pytorch,java,kafka,redis,mysql,postgresql,elasticsearch,aws,docker,jenkins&perline=6)
 
 <a href="https://github.com/CodexParas">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexParas&theme=radical" alt="Paras's Top Langs" />
