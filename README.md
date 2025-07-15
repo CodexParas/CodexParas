@@ -39,29 +39,6 @@ As an Associate Software Developer at Decimal Technologies, my expertise lies in
 **Languages and Tools:**  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,pytorch,java,kafka,redis,mysql,postgresql,elasticsearch,aws,docker,jenkins&perline=6)
 
-<a href="https://github.com/CodexParas">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexParas&theme=radical" alt="Paras's Top Langs" />
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=CodexParas&&show_icons=true&theme=radical&line_height=27&v=5" alt="Paras's GitHub Stats" />
-
-<div>
- <a href="https://github.com/CodexParas/django-automated-news">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodexParas&repo=django-automated-news&theme=radical" />
-</a> 
-<a href="https://github.com/CodexParas/library-management-system-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodexParas&repo=library-management-system-api&theme=radical" />
-</a> 
-</div>
-<div>
- <a href="https://github.com/CodexParas/todo-app-django">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodexParas&repo=todo-app-django&theme=radical" />
-</a> 
-<a href="https://github.com/CodexParas/book-social-network-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodexParas&repo=book-social-network-api&theme=radical" />
-</a> 
-</div>
-
 ## Contact Me :speech_balloon:
 [![Twitter Badge](https://img.shields.io/badge/-@CodexParas-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/techyparas)](https://twitter.com/techyparas) [![Linkedin Badge](https://img.shields.io/badge/-CodexParas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gupta-paras/)](https://www.linkedin.com/in/gupta-paras/) [![Gmail Badge](https://img.shields.io/badge/-parasgupta8sep@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parasgupta8sep@gmail.com)](mailto:parasgupta8sep@gmail.com) [![Hacerrank Badge](https://img.shields.io/badge/-@CodexParas-32C765?style=flat-square&labelColor=088931&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/profile/codewithparas)](https://www.hackerrank.com/profile/codewithparas)
 
